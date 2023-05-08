@@ -1,0 +1,61 @@
+[INTRO MUSIC]
+
+Hello, and welcome to the podcast! Today, we’re talking about developer salaries.
+
+Software development is a rapidly growing field, and developers are in high demand. But what are developers actually making? How much do they earn?
+
+To answer these questions, we’ve brought on an expert in the field, John Smith. John is a software engineer with over 10 years of experience.
+
+John, thanks for joining us today.
+
+[JOHN]
+
+Thanks for having me!
+
+[HOST]
+
+So, to start off, can you tell us a bit about the current state of developer salaries?
+
+[JOHN]
+
+Sure. Generally speaking, developer salaries are on the rise. According to the Bureau of Labor Statistics, the median salary for software developers in the US is over $105,000 per year, and many developers make significantly more than that.
+
+[HOST]
+
+That’s great to hear! What factors influence a developer’s salary?
+
+[JOHN]
+
+There are a few key factors that influence a developer’s salary. The most important is experience. Generally speaking, the more experience you have, the more you’ll be able to command in terms of salary.
+
+Location is also a factor. Developers in major cities tend to make more than those in smaller towns. Additionally, the type of company you work for can have an impact on your salary. Companies in the tech industry tend to pay more than companies in other industries.
+
+[HOST]
+
+That makes sense. Are there any other factors that can influence a developer’s salary?
+
+[JOHN]
+
+Yes, there are a few. For example, the type of programming language you know can have an impact on your salary. Developers who know popular languages like Java or Python tend to make more than those who know less popular languages.
+
+Additionally, the type of job you’re doing can have an impact. For example, developers who work on cutting-edge projects may be able to command higher salaries than those who are doing more routine tasks.
+
+[HOST]
+
+That’s really interesting. Is there anything else you’d like to add about developer salaries?
+
+[JOHN]
+
+Yes, one thing to keep in mind is that salaries can vary greatly from one company to the next. So, it’s important to do your research and find out what the going rate is for the type of job you’re looking for.
+
+[HOST]
+
+That’s great advice. Thanks for joining us today, John.
+
+[JOHN]
+
+My pleasure!
+
+[OUTRO MUSIC]
+
+Thanks for tuning in to the podcast. We hope you found our discussion about developer salaries informative. Until next time!
